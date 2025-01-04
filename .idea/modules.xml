@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CryptoBot/.idea/CryptoBot.iml" filepath="$PROJECT_DIR$/../CryptoBot/.idea/CryptoBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myTelegramBot.iml" filepath="$PROJECT_DIR$/.idea/myTelegramBot.iml" />
+    </modules>
+  </component>
+</project>
